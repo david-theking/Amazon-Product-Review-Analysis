@@ -76,7 +76,7 @@ The dataset contains aggregated information scraped from Amazon product pages. E
 
 
 ## Analysed File
-![Amazon Case Study File]()
+![Amazon Case Study File](https://github.com/david-theking/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study.xlsx)
 ## 📊 Dashboard Preview
 
 > The final dashboard includes slicers, interactive filters, KPI cards, and charts that allow business managers to explore product performance by category, rating, and discount level.

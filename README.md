@@ -75,8 +75,7 @@ The dataset contains aggregated information scraped from Amazon product pages. E
 | 14  | Identify top 5 products in terms of rating & number of reviews combined           | A new calculated column named 'Combined Score' was created to evaluate products based on both their 'rating' and 'rating_count'. An Excel Pivot Table was then used with 'product_name' in the Rows area and 'Sum of Combined Score' in the Values area, sorted in descending order to identify the top 5. | The top 5 products that excel in both customer satisfaction (rating) and popularity (review count) are: **Amazon Basic High Speed HDMI**, **boAT Bassheads 100 in**, **Redmi 9A Sports (Coral)**, **Amazon Basics Flexible Premium HDMI** and **JBL C**. **Amazon Basic High Speed HDMI** stands out significantly with the highest combined score, reinforcing its position as a highly popular and well-regarded product. These products are invaluable assets for RetailTech Insights' clients. They represent flagship items that drive sales, build brand reputation, and foster customer loyalty due to their combination of high quality (high rating) high review count. Management should focus on maintaining the success of these products through continued quality assurance, active community engagement, and leveraging their popularity in marketing strategies  |
 
 
-## Analysed File
-![Amazon Case Study File](https://github.com/david-theking/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study.xlsx)
+
 ## 📊 Dashboard Preview
 
 > The final dashboard includes slicers, interactive filters, KPI cards, and charts that allow business managers to explore product performance by category, rating, and discount level.

@@ -78,4 +78,4 @@ The dataset contains aggregated information scraped from Amazon product pages. E
 
 > The final dashboard includes slicers, interactive filters, KPI cards, and charts that allow business managers to explore product performance by category, rating, and discount level.
 
-![Amazon Product Dashboard]()
+![Dashboard]()

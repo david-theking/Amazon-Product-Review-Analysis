@@ -80,4 +80,5 @@ The dataset contains aggregated information scraped from Amazon product pages. E
 
 ## Dashboards
 ![Dashboard](https://github.com/david-theking/Amazon-Product-Review-Analysis/blob/main/Dashboard%201.png)
+![Dashboard](https://github.com/david-theking/Amazon-Product-Review-Analysis/blob/main/Dashboard%202.png)
 
